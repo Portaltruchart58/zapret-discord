@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# Portaltruchart58/zapret-discord c29cae74737f

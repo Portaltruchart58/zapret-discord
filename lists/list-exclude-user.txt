@@ -1,0 +1,2 @@
+domain.example.abc
+# Portaltruchart58/zapret-discord c29cae74737f
