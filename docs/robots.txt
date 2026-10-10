@@ -7,4 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Sitemap: https://github.com/Portaltruchart58/zapret-discord
+Sitemap: https://github.com/portaltruchart58/zapret-discord
